@@ -115,6 +115,8 @@ Alright, let’s dive deep into the mathematics behind neural networks (NNs) and
 ---
 
 ### **Mathematics in Neural Networks (NNs)**
+![image](https://github.com/user-attachments/assets/ae499ba9-52be-41ed-946c-8df821938d57)
+
 
 Neural networks involve several layers of mathematics, and they build upon the core concepts you already know from linear regression. Here are the key components:
 
